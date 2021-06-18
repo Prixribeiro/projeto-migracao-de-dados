@@ -12,7 +12,7 @@ https://github.com/Prixribeiro/projeto-migracao-de-dados/blob/main/Especifica%C3
 # Arquitetura do Projeto:
 
 <p align="center">
-  <img src="https://github.com/Prixribeiro/projeto-migracao-de-dados/blob/main/fluxo%20de%20migra%C3%A7ao.png" width="400" title="Arquitetura do Projeto">
+  <img src="https://github.com/Prixribeiro/projeto-migracao-de-dados/blob/main/fluxo%20de%20migra%C3%A7ao.png" width="600" title="Arquitetura do Projeto">
 </p>
 
 
